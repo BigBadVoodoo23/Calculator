@@ -1,0 +1,14 @@
+C:\Users\robin\source\repos\C#Calculator_V0.1\C#Calculator_V0.1\bin\Debug\net8.0\C#Calculator_V0.1.exe
+C:\Users\robin\source\repos\C#Calculator_V0.1\C#Calculator_V0.1\bin\Debug\net8.0\C#Calculator_V0.1.deps.json
+C:\Users\robin\source\repos\C#Calculator_V0.1\C#Calculator_V0.1\bin\Debug\net8.0\C#Calculator_V0.1.runtimeconfig.json
+C:\Users\robin\source\repos\C#Calculator_V0.1\C#Calculator_V0.1\bin\Debug\net8.0\C#Calculator_V0.1.dll
+C:\Users\robin\source\repos\C#Calculator_V0.1\C#Calculator_V0.1\bin\Debug\net8.0\C#Calculator_V0.1.pdb
+C:\Users\robin\source\repos\C#Calculator_V0.1\C#Calculator_V0.1\obj\Debug\net8.0\C#Calculator_V0.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\source\repos\C#Calculator_V0.1\C#Calculator_V0.1\obj\Debug\net8.0\C#Calculator_V0.1.AssemblyInfoInputs.cache
+C:\Users\robin\source\repos\C#Calculator_V0.1\C#Calculator_V0.1\obj\Debug\net8.0\C#Calculator_V0.1.AssemblyInfo.cs
+C:\Users\robin\source\repos\C#Calculator_V0.1\C#Calculator_V0.1\obj\Debug\net8.0\C#Calculator_V0.1.csproj.CoreCompileInputs.cache
+C:\Users\robin\source\repos\C#Calculator_V0.1\C#Calculator_V0.1\obj\Debug\net8.0\C#Calculator_V0.1.dll
+C:\Users\robin\source\repos\C#Calculator_V0.1\C#Calculator_V0.1\obj\Debug\net8.0\refint\C#Calculator_V0.1.dll
+C:\Users\robin\source\repos\C#Calculator_V0.1\C#Calculator_V0.1\obj\Debug\net8.0\C#Calculator_V0.1.pdb
+C:\Users\robin\source\repos\C#Calculator_V0.1\C#Calculator_V0.1\obj\Debug\net8.0\C#Calculator_V0.1.genruntimeconfig.cache
+C:\Users\robin\source\repos\C#Calculator_V0.1\C#Calculator_V0.1\obj\Debug\net8.0\ref\C#Calculator_V0.1.dll
